@@ -3,7 +3,7 @@ Collection for pictures of surf maps in csgo/css/momentum, with the goal being g
 
 ## Contributions
 1. Photo has to be at least in 3440x1440 resolution
-2. Please keep the 21:9 ratio
+2. Please keep the 21:9 ratio (this switch is the reason for the fork)
 3. Format of photo has to be .jpg
 4. profit?
 
