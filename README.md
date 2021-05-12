@@ -1,13 +1,18 @@
 # SurfMapPics
-Collection for pictures of surf maps in csgo/css/momentum, with the goal being getting them all in 21:9 eventually.
+Tandem project with my SurfZones project. I'll be going through every single map I personally have at present and double checking zones, while also gather screenshots of all maps, and every map bonus, in the specifications below. This repository will be for people to point their discord record relays at if they want images and just so happen to like the way I'm presenting them for my personal setup.
 
-## Contributions
-1. Photo has to be at least in 3440x1440 resolution
-2. Please keep the 21:9 ratio (this switch is the reason for the fork)
-3. Format of photo has to be .jpg
-4. profit?
+## Image Specifications/Standards:
+- All photos will be in 3440x1440 / 21:9 as jpegs.
 
-## How to use?
-You take this link here https://raw.githubusercontent.com/Sayt123/SurfMapPics/master/csgo/ and put it "ck_discord_url_main" here, for magic. 
+## How to use:
+While I don't recommend using this JUST yet I'll detail how to use it in the future/as I work on it if you still choose to point your discord bots at the repository. 
 
-I'm switching over all images eventually to 3440x1440 as I like the way it looks when records are reported in discord using that resolution. If you don't like the 21:9 aspect ratio on the bot then.. I don't know, resize these as you see fit? 
+In your surftimer.cfg located probably around /csgo/cfg/sourcemod, you can add "https://raw.githubusercontent.com/Sayt123/SurfMapPics/master/csgo/" to the following two lines, to get the discord record image showing up in either color coded example in the image. 
+
+🟩 - ck_discord_url_main
+🟥 - ck_discord_url_thumb
+
+<img src="https://i.imgur.com/P0ttKJN.png">
+
+Whether your timer supports it, I'll also be including bonus images which can be enabled by setting (so I assume? Iunno I'll delete this once I test it if it doesn't work the way I assumed.)
+ck_discord_bonus_image "1"
