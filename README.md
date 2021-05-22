@@ -5,9 +5,9 @@ Tandem project with my [SurfZones Project](https://github.com/Sayt123/SaytsSurfZ
 - All photos will be in 3440x1440 / 21:9 as jpegs.
 
 ## How to use:
-While I don't recommend using this JUST yet I'll detail how to use it in the future/as I work on it if you still choose to point your discord bots at the repository.
+Welp the repo is too big to point directly at I believe now, so, I recommend cloning and hosting on your own webhost or locally or whatever until I finish this, then I'll look into a public solution to host it. 
 
-In your surftimer.cfg located probably around /csgo/cfg/sourcemod, you can add **"https://raw.githubusercontent.com/Sayt123/SurfMapPics/master/csgo/"** to the following two lines, to get the discord record image showing up in either color coded example in the image.
+In your surftimer.cfg located probably around /csgo/cfg/sourcemod, you can add your copy of this directory to the following two lines, to get the discord record image showing up in either color coded example in the image.
 
 🟩 - **ck_discord_url_main
 🟥 - ck_discord_url_thumb**
