@@ -18,4 +18,4 @@ Whether your timer supports it, I'll also be including bonus images which can be
 
 Progress:
 
-~~#ABCD~~EFGHIJKLMNOPQRST~~UVWXYZ~~
+~~#ABCDEFGH~~IJKLMNOPQRST~~UVWXYZ~~
